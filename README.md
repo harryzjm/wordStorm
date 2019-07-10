@@ -13,4 +13,4 @@
 #### Navigate Bar  
 关闭 <-> 去标点 <-> 回初始值 <-> 取消选择 <-> 复制已选到剪贴板并退出
 
-[Download WordStorm](https://xteko.com/redir?name=WordStorm&url=https%3a%2f%2fraw.githubusercontent.com%2fharryzjm%2fwordStorm%2fmaster%2fwordstorm.box)
+[Download WordStorm](https://xteko.com/redir?name=WordStorm&url=https%3a%2f%2fraw.githubusercontent.com%2fharryzjm%2fwordStorm%2fmaster%2fwordstorm.zip)

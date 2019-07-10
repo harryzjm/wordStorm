@@ -140,10 +140,10 @@ async function apart(content) {
                         if (text.length > 0) {
                           $clipboard.set({ type: "public.plain-text", value: text });
 
-                          let callback = $context.query["x-success"]
-                          if (callback != undefined && callback.length > 0) {
-                            let res = $text.URLEncode(text)
-                            let url = callback + `?result=${res}`
+                          let callback = $context.query["x-success"];
+                          if (callback !== undefined && callback.length > 0) {
+                            let res = $text.URLEncode(text);
+                            let url = callback + `?result=${res}`;
                             $app.openURL(url)
                           }
                           $ui.toast("Copied to clipboard");

@@ -18,3 +18,4 @@ cp ../tmp/${readme} ./
 rm -rf ../tmp
 git commit -a -m "fix"
 git push origin master
+git checkout develop
